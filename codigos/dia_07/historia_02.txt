@@ -1,0 +1,2 @@
+Meu novo arquivo! usando a letra w no c�digo, eu estou sobrescrevendo o conte�do do arquivo ,mas se eu utilizar a letra 'a' no segundo parametro, o texto vai ser adicionado ao final do arquivo, sem apagar o conteudo.
+Se eu quiser pular uma linha, basta eu usar o '\n' no meu texto 
